@@ -1,0 +1,11 @@
+/Users/mp/Desktop/C#.NET/Guess-the-Number/bin/Debug/netcoreapp2.1/Guess-the-Number.deps.json
+/Users/mp/Desktop/C#.NET/Guess-the-Number/bin/Debug/netcoreapp2.1/Guess-the-Number.runtimeconfig.json
+/Users/mp/Desktop/C#.NET/Guess-the-Number/bin/Debug/netcoreapp2.1/Guess-the-Number.runtimeconfig.dev.json
+/Users/mp/Desktop/C#.NET/Guess-the-Number/bin/Debug/netcoreapp2.1/Guess-the-Number.dll
+/Users/mp/Desktop/C#.NET/Guess-the-Number/bin/Debug/netcoreapp2.1/Guess-the-Number.pdb
+/Users/mp/Desktop/C#.NET/Guess-the-Number/obj/Debug/netcoreapp2.1/Guess-the-Number.csprojAssemblyReference.cache
+/Users/mp/Desktop/C#.NET/Guess-the-Number/obj/Debug/netcoreapp2.1/Guess-the-Number.csproj.CoreCompileInputs.cache
+/Users/mp/Desktop/C#.NET/Guess-the-Number/obj/Debug/netcoreapp2.1/Guess-the-Number.AssemblyInfoInputs.cache
+/Users/mp/Desktop/C#.NET/Guess-the-Number/obj/Debug/netcoreapp2.1/Guess-the-Number.AssemblyInfo.cs
+/Users/mp/Desktop/C#.NET/Guess-the-Number/obj/Debug/netcoreapp2.1/Guess-the-Number.dll
+/Users/mp/Desktop/C#.NET/Guess-the-Number/obj/Debug/netcoreapp2.1/Guess-the-Number.pdb
